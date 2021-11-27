@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Sofia Lydia Ntella
 
-You can use the [editor on GitHub](https://github.com/slntella/first_trial/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a PhD student in the [Integrated Actuators Laboratory (LAI)](https://www.epfl.ch/labs/lai/), in EPFL, Switzerland. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/slntella/first_trial/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I received a joint BSc and MSc degree from the [Department of Electrical and Computer Engineering](https://ee.auth.gr/en) of the Aristotle University of Thessaloniki in 2017. After graduating, I worked as an embedded software engineer in [ASML](https://www.asml.com/en/company/about-asml/asml-at-a-glance), a dutch company, located in Eindhoven, the Netherlands, which is at the present time, the world's leading lithography machines producer. In July 2019, I joined LAI, EPFL, where I am currently working on the development of a smart wearable footwear solution, with the aim to prevent ulcerations in diabetic patients. 
+## Research Interests
+## Contact
+sofia.ntella@epfl.ch
